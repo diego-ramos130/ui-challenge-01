@@ -1,0 +1,16 @@
+.centered-text  {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.twocol:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+
+
+
