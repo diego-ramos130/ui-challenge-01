@@ -1,0 +1,21 @@
+
+
+#a {
+  max-width: 480px;
+  height: 75px;
+}
+
+#b {
+  max-width: 480px;
+  height: 150px;
+}
+
+#c, #d {
+  max-width: 480px;
+  height: 125px;
+}
+
+#what {
+ max-width: 480px;
+ height:80px;
+}
