@@ -1,4 +1,9 @@
-#a, #b, #c, #d, #e, #f, #g, #h, #what {
+#a, #b, #c, #d, #e, #f, #g, #h, #i {
   background-color:grey;
-  border: 1px solid black;
+}
+
+.allcontent {
+  max-width: 480px;
+  margin: 0 auto;
+  
 }

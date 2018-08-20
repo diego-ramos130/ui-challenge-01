@@ -4,18 +4,13 @@
   align-items: center;
 }
 
-.twocol {
-  display: flex;
-}
-
-#e, #f, #g, #h {
-  flex: 50%;
-  max-width: 250px;
-  height:240px;
+.twocol:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 
 
-@media only screen and (max-width:768px){
 
-}
+
